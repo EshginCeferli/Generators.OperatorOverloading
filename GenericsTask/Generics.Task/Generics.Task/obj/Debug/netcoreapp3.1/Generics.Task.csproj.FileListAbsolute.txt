@@ -1,0 +1,14 @@
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.exe
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.deps.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.runtimeconfig.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.runtimeconfig.dev.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\bin\Debug\netcoreapp3.1\Generics.Task.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.AssemblyInfoInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.AssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.genruntimeconfig.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsTask\Generics.Task\Generics.Task\obj\Debug\netcoreapp3.1\Generics.Task.csproj.AssemblyReference.cache

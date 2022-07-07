@@ -1,0 +1,14 @@
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.exe
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.deps.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.runtimeconfig.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.runtimeconfig.dev.json
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\bin\Debug\netcoreapp3.1\Generics.Operators.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.csproj.AssemblyReference.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.AssemblyInfoInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.AssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.dll
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.pdb
+C:\Users\ESQIN\OneDrive\İş masası\C#\Generics.Operators\GenericsLessonReview\Generics.Operators\Generics.Operators\obj\Debug\netcoreapp3.1\Generics.Operators.genruntimeconfig.cache
